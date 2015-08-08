@@ -1,0 +1,11 @@
+
+outBest = .joint.newltanh
+seg = true
+ilpThres = -0.1
+featCutOff = 0
+wrnnhiddenSize = 200
+crnnhiddenSize = 300
+linearHiddenSize = 30
+#fixedIterNum = true
+maxIter = 10
+dropProb = 0.5
