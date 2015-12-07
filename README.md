@@ -1,6 +1,3 @@
-# OpenTargetedSentiment
-Souces and Codes of Neural Networks for Open Domain Targeted Sentiment, EMNLP 2015  
-
 OpenTargetedSentiment
 ======
 Data and Codes of [Neural Networks for Open Domain Targeted Sentiment](http://www.aclweb.org/anthology/D/D15/D15-1073.pdf), EMNLP 2015  
