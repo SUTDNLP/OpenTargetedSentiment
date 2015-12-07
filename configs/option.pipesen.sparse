@@ -1,5 +1,5 @@
 
-outBest = .pipe.basic
+outBest = .pipeline.sparse
 seg = true
 ilpThres = 0.1
 featCutOff = 0

@@ -1,7 +1,7 @@
 
-outBest = .joint.newbasic
+outBest = .pipeline.combine
 seg = true
-ilpThres = -0.1
+ilpThres = 0.1
 featCutOff = 0
 wrnnhiddenSize = 200
 crnnhiddenSize = 300
