@@ -1,4 +1,5 @@
 
+# train$i.ner, dev$i.ner and test$i.ner are extracted from the *.nn by the name entity part.
 for i in `seq 1 10`;
 do
 	echo "SparseCRFMMLabeler  $i "		

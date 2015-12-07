@@ -1,4 +1,5 @@
 
+# train$i.sen, dev$i.sen and test$i.sen are obtained by merging the name entity and sentiment analysis results from the *.nn.
 for i in `seq 1 10`;
 do
 	echo "SparseCRFMMLabeler  $i "		
